@@ -15,7 +15,7 @@
 # else:
 #     print('nenhum número par foi digitado')
 
-# a = int(input('Primeiro bimestre: '))
+# 'a = int(input('Primeiro bimestre: '))
 # if a > 10:
 #     a = int(input('Você digitou errado.  Primeiro bimestre: '))
 # b = int(input('Segundo bimestre: '))
@@ -29,6 +29,7 @@
 #     d = int(input('Você digitou errado.  Quarto bimestre: '))
 # media = (a + b + c + d) / 4
 # if a <= 10 and b <= 10 and c <= 10 and d <= 10:
-#     print('media: {}'.format(media))
+#     print('media: {}'.format(media))'
 # else:
 #     print('foi informado alguma nota errada')
+
