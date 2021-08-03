@@ -1,5 +1,5 @@
 lista = [1, 2, 23, -4, 5, 645, 9, 10];
-lista_animais = ['cachorro', 'gato', 'elefante', 'lobo', 'minha-sogra'];
+lista_animais = ['cachorro', 'gato', 'elefante', 'lobo', 'minha-sogra', 'Milk'];
 # print(lista, lista_animais[1])
 # soma = 0
 # for x in lista:
