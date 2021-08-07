@@ -20,8 +20,8 @@ class Calculadora:
     return self.valorA / self.valorB
 
 calculadora = Calculadora(10, 2)
-print(calculadora.valorA)
-print(calculadora.valorB)
+# print(calculadora.valorA)
+# print(calculadora.valorB)
 
   # print(soma(4, 5))
   # print(sub(2554,1582))
